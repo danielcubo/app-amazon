@@ -1,0 +1,15 @@
+img {
+  height: 100px;
+  width: 150px;
+}
+
+.codigo {
+ color: brown;
+ font: bold;
+}
+
+.card-login {
+  padding: 30px 0 0 0;
+  width: 350px;
+  margin: 0 auto;
+}
